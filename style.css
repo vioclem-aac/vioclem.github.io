@@ -4,13 +4,13 @@
    ------------------------------------------------------------ */
 
 :root {
-  --paper: #f2f5f7;      /* page background */
-  --ink: #16232d;        /* main text */
-  --muted: #53636f;      /* secondary text */
-  --teal: #0e5a63;       /* links, buttons, accents */
+  --paper: #faf9f6;      /* page background */
+  --ink: #7f00ff;        /* main text */
+  --muted: #e96e00;      /* secondary text */
+  --teal: #e96e00;       /* links, buttons, accents */
   --teal-dark: #0a434a;  /* hover state */
   --line: #c9d3da;       /* dividers */
-  --deep: #12303a;       /* footer background */
+  --deep: #7f00ff;       /* footer background */
 
   --serif: "Source Serif 4", Georgia, "Times New Roman", serif;
   --sans: "IBM Plex Sans", "Segoe UI", Arial, sans-serif;
